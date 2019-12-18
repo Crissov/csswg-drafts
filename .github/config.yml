@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: WICG: Web Incubator Community Group Talk
+    url: https://discourse.wicg.io/
+    about: Please consider discussing rough proposals here first.
+  - name: WICG: Web Incubator Community Group
+    url: https://wicg.io/
+    about: Please consider fleshing out proposals here second.
